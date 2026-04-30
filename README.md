@@ -55,4 +55,4 @@ python groundstation.py
 
 ## 👨‍💻 Author
 
-Your Name
+K DEVIKIRAN A HEGDE
