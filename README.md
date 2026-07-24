@@ -44,7 +44,12 @@ python groundstation.py
 
 ## 📸 Output
 
-(Add screenshot here)
+<img width="751" height="593" alt="Screenshot 2026-05-01 022654" src="https://github.com/user-attachments/assets/7a08ed08-852e-4e6e-9b45-e4bec29af1bc" />
+<img width="815" height="392" alt="Screenshot 2026-05-01 022717" src="https://github.com/user-attachments/assets/da31e00a-e97c-458f-aa60-9b0831d7a1f2" />
+<img width="823" height="544" alt="Screenshot 2026-05-01 022751" src="https://github.com/user-attachments/assets/75e57664-149a-4f89-b5ef-13f1b7561d95" />
+
+
+
 
 ## 📌 Key Highlights
 
